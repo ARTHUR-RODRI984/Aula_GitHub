@@ -1,0 +1,39 @@
+.texto{
+    width: 900px;
+    margin: auto;
+    text-align: justify;
+    
+}
+
+.titulo1{
+
+    text-align: center;
+}
+
+.menu{
+    height: 50px;
+    background-color: rgb(41, 87, 124);
+    width: 100%;
+}
+
+.menuLista
+{ 
+color: cornsilk;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.menuLista > li 
+{
+   padding: 20px;
+}
+
+.footer
+{
+   background-color: #2c6e8d;
+   text-align: center;
+   color: white;
+   
+}
